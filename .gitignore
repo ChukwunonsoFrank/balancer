@@ -1,1 +1,2 @@
-balancer
+*.exe
+./vendor
